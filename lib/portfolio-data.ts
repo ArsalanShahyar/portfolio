@@ -7,7 +7,7 @@ export const profile = {
     shortIntro:
         "Computer Science student passionate about AI, Machine Learning, and building real-world solutions through clean, scalable code.",
     about: {
-        bio: `I am Arsalan Shahyar, a Computer Science bachelor’s student at Kabul Educational University and an aspiring AI and Machine Learning developer passionate about using technology to solve real-world problems. I care deeply about professional standards and writing clean, efficient, and scalable code. My technical skills include Pandas, NumPy, Matplotlib, Scikit-learn, and PyTorch, which I use for data analysis, visualization, and building machine learning models. Through continuous learning and hands-on projects, I have built a solid foundation in AI, machine learning, and problem-solving. I am adaptable, quick to learn, and effective in diverse and remote environments, with strong cross-cultural communication skills. Driven by a growth mindset, I continuously work to improve my skills and create meaningful impact through artificial intelligence.`,
+        bio: `I am Arsalan Shahyar, a Computer Science bachelor’s student at Kateb University and an aspiring AI and Machine Learning developer passionate about using technology to solve real-world problems. I care deeply about professional standards and writing clean, efficient, and scalable code. My technical skills include Pandas, NumPy, Matplotlib, Scikit-learn, and PyTorch, which I use for data analysis, visualization, and building machine learning models. Through continuous learning and hands-on projects, I have built a solid foundation in AI, machine learning, and problem-solving. I am adaptable, quick to learn, and effective in diverse and remote environments, with strong cross-cultural communication skills. Driven by a growth mindset, I continuously work to improve my skills and create meaningful impact through artificial intelligence.`,
         mission: `My mission is to leverage artificial intelligence to solve meaningful problems, continuously grow as a developer, and contribute to impactful projects that advance technology for good.`,
         strengths: [
             "Adaptability",
@@ -27,7 +27,7 @@ export const profile = {
     },
     education: {
         degree: "Bachelor’s Degree in Computer Science",
-        institution: "Kabul Educational University",
+        institution: "Kateb University",
         details: `I am committed to continuous learning, self-improvement, and hands-on practice to stay at the forefront of AI and Machine Learning.`
     },
     skills: [
